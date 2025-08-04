@@ -1,8 +1,6 @@
 <!-- Muhammadziyo's GitHub Profile README -->
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56Y2RzdGQ1cHU5bHdrbGlqa2ZwMjczaGhudnA1ajg4cjUzNDA2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpVKvAabWt3G5csMkT/giphy.gif" alt="Soft Animated Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammadziyo</h1>
 <h3 align="center">Web Developer passionate about creating modern, responsive, and beautiful interfaces</h3>
