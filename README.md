@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m focused on **Front-End development** using modern technologies.
-- 🎬 Creator of [Film-Vibe](https://film-vibe.web.app) ([GitHub Repo](https://github.com/Muhammadziyoodilov/stream-vibe))
+- 🎬 Creator of [Film-Vibe](https://film-vibe.web.app) ([GitHub Repo](https://github.com/Muhammadziyoodilov/film-vibe))
 - 💬 Ask me about **React, Tailwind, Firebase, Redux Toolkit**
 - 📫 Reach me on [Telegram](https://t.me/Ziyo_17_11)
 
@@ -60,8 +60,8 @@
   <b>Film-Vibe</b>
 </a>
 <br />
-<a href="https://github.com/Muhammadziyoodilov/stream-vibe">
-  <img src="https://img.shields.io/github/stars/Muhammadziyoodilov/stream-vibe?style=social" />
+<a href="https://github.com/Muhammadziyoodilov/film-vibe">
+  <img src="https://img.shields.io/github/stars/Muhammadziyoodilov/film-vibe?style=social" />
 </a>
 
 ---
