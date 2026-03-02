@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hey, I'm Muhammadziyo 👋
-### Full-Stack Developer from Uzbekistan 🇺🇿
+### Developer from Uzbekistan 🇺🇿
 
 *Building tools that open doors for the next generation*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1847ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creator+of+EduAbroad+UZ+%F0%9F%8C%8D;React+%2B+TypeScript+%2B+Firebase;Building+for+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1847ED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Creator+of+EduAbroad+UZ+%F0%9F%8C%8D;React+%2B+TypeScript+%2B+Firebase;Building+for+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 const muhammadziyo = {
   name: "Odilov Muhammadziyo",
   location: "Uzbekistan 🇺🇿",
-  role: "Full-Stack Developer",
+  role: "Frontend Developer",
   currentProject: "EduAbroad UZ — helping Uzbek students study abroad",
   mission: "Every talented student in Uzbekistan deserves world-class education",
   funFact: "I built EduAbroad UZ because the tool I needed didn't exist 💡"
@@ -30,7 +30,7 @@ const muhammadziyo = {
 
 <div align="center">
 
-### 🌐 [EduAbroad UZ](https://github.com/muhammadziyo)
+### 🌐 [EduAbroad UZ](https://github.com/Muhammadziyoodilov)
 **The first platform built from Uzbekistan, for Uzbekistan**
 
 </div>
@@ -39,7 +39,7 @@ const muhammadziyo = {
 
 | Feature | Description |
 |---|---|
-| 🔍 **Smart Search** | 100+ universities across 13+ countries with advanced filters |
+| 🔍 **Smart Search** | Universities from 13+ countries with advanced filters |
 | 📊 **Admission Calculator** | Enter your IELTS, SAT & GPA — get your real chances |
 | 👤 **Student Stories** | Real experiences from Uzbek students who made it |
 | ✅ **Document Checklist** | Interactive checklists per university, saved locally |
@@ -49,7 +49,7 @@ const muhammadziyo = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -76,7 +76,7 @@ const muhammadziyo = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -86,11 +86,11 @@ const muhammadziyo = {
 
 <div align="center">
 
-![Muhammadziyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadziyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1847ED&icon_color=1847ED)
+![Muhammadziyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadziyoodilov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1847ED&icon_color=1847ED)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadziyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1847ED)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadziyoodilov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1847ED)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadziyo&theme=tokyonight&hide_border=true&background=0D1117&ring=1847ED&fire=1847ED&currStreakLabel=1847ED)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadziyoodilov&theme=tokyonight&hide_border=true&background=0D1117&ring=1847ED&fire=1847ED&currStreakLabel=1847ED)
 
 </div>
 
@@ -98,11 +98,12 @@ const muhammadziyo = {
 
 ## 🎯 2025–2026 Roadmap
 
-- [x] 🌐 Launch EduAbroad UZ MVP with 100+ universities
+- [x] 🌐 Launch EduAbroad UZ MVP
 - [x] 🌍 Support 3 languages (UZ / RU / EN)
 - [x] 📊 Build admission calculator
+- [ ] 🏫 Expand to 100+ real universities
 - [ ] 👥 Launch student community & mentor network
-- [ ] 📱 Release mobile app (iOS & Android)
+- [ ] 📱 Release mobile app
 - [ ] 🤖 Add AI-powered university advisor
 - [ ] 🎓 Help 10,000+ Uzbek students find their path
 
@@ -125,9 +126,9 @@ const muhammadziyo = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muhammadziyo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadziyo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadziyo)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ziyo_17_11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadziyo4727/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammadziyoodilov)
 
 </div>
 
@@ -135,7 +136,7 @@ const muhammadziyo = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadziyo&color=1847ED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammadziyoodilov&color=1847ED&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **If EduAbroad UZ helped you — give it a star!** ⭐
 
